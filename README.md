@@ -50,11 +50,7 @@
 
 ---
 
-### 📊 GitHub stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohinthtruelineresearch-cloud&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
