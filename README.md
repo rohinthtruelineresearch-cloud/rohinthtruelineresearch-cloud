@@ -15,7 +15,7 @@
 
 ### 🚀 About me
 
-- 🔭 Currently working at **TrueLine Research**, on **[what you work on]**
+- 🔭 Building the **Trueline** ecosystem: a research platform, an academic publisher, a science magazine and an AI journal
 - 🌱 Learning **[e.g. AI/ML, cloud, system design]**
 - 💡 Interested in **[e.g. research tools, data-driven apps, creative web]**
 - 🤝 Open to collaborating on **[open source / freelance / research projects]**
@@ -34,11 +34,19 @@
 
 ### 🌟 Featured projects
 
-| Project | What it does | Tech |
+| Project | What it is | Type |
 |---|---|---|
-| [**Project One**](https://github.com/rohinthtruelineresearch-cloud/project-one) | One-line description | React · Node |
-| [**Project Two**](https://github.com/rohinthtruelineresearch-cloud/project-two) | One-line description | Python · FastAPI |
-| [**Project Three**](https://github.com/rohinthtruelineresearch-cloud/project-three) | One-line description | Data · ML |
+| 🔬 [**Trueline Research**](https://truelineresearch.in/) | Turning multidisciplinary research into real-world impact | Research Platform |
+| 📚 [**Trueline Publisher**](https://truelinepublisher.in/) | International multidisciplinary academic publisher | Academic Publishing |
+| 🛰️ [**Trueline Spectrum**](https://truelinespectrum.in/) | A monthly science & technology magazine | Digital Magazine |
+| 🤖 [**JAEID**](https://www.jaeid.com/) | Journal of AI Enabled Innovation and Discovery | AI Research Journal |
+
+<p align="center">
+  <a href="https://truelineresearch.in/"><img src="https://img.shields.io/badge/Trueline_Research-Live-2ea44f?style=flat-square" /></a>
+  <a href="https://truelinepublisher.in/"><img src="https://img.shields.io/badge/Trueline_Publisher-Live-2ea44f?style=flat-square" /></a>
+  <a href="https://truelinespectrum.in/"><img src="https://img.shields.io/badge/Trueline_Spectrum-Live-2ea44f?style=flat-square" /></a>
+  <a href="https://www.jaeid.com/"><img src="https://img.shields.io/badge/JAEID-Live-2ea44f?style=flat-square" /></a>
+</p>
 
 ---
 
