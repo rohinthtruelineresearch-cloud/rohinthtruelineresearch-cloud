@@ -56,10 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=rohinthtruelineresearch-cloud&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohinthtruelineresearch-cloud&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 
 <p align="center"><i>"Build things you'd want to use."</i> — thanks for stopping by ✨</p>
