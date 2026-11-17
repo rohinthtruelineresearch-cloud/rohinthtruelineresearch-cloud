@@ -53,12 +53,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohinthtruelineresearch-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohinthtruelineresearch-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rohinthtruelineresearch-cloud&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohinthtruelineresearch-cloud&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohinthtruelineresearch-cloud&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
